@@ -1,0 +1,26 @@
+div {
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.innerBodyClass {
+    margin-top: 50px;
+    margin-left: 125px;
+}
+
+a:hover {
+  color: purple;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+.footer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
