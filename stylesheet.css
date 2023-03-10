@@ -12,6 +12,10 @@ a:hover {
   color: purple;
 }
 
+#boldName {
+    font-weight: bolder;
+}
+
 h1 {
     color: blueviolet;
 }
